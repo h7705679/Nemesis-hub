@@ -1,6 +1,6 @@
 local scripts = {
     --[13704594433] = "",
-    [6161235818]  = "https://raw.githubusercontent.com/h7705679/Nemesis-hub/refs/heads/main/Twisted.lua"
+    [14170731342]  = "https://raw.githubusercontent.com/h7705679/Nemesis-hub/refs/heads/main/Twisted.lua" -- changed to 14170731342
 }
 
 local scriptUrl = scripts[game.PlaceId]
